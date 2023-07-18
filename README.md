@@ -5,10 +5,10 @@
 - 💬 Ask me about Food & Traveling  
 - 😄 Pronouns : She | Her | Hers 
 
-/* Please reach out to me on linkedin.
-<a href="https://www.linkedin.com/in/fatema-kabir/">
-  <img align="left" alt="Linkedin" width="24px" height="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />
-</a> */
+// Please reach out to me on linkedin.
+// <a href="https://www.linkedin.com/in/fatema-kabir/">
+//  <img align="left" alt="Linkedin" width="24px" height="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" />
+// </a> 
 
 //<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=FatemaKK)](https://github.com/fatemaKK/github-readme-stats) -->
 
